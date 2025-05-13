@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+pydantic
+openai
+python-dotenv
+openai-agents
+litellm
+sqlalchemy
+aiosqlite
+alembic
+slack-bolt
+# RAG dependencies
+langchain
+langchain-openai
+faiss-cpu
+python-multipart
+tiktoken
+bcrypt
+pypdf
+greenlet

@@ -1,0 +1,14 @@
+openai
+pandas
+scikit-learn
+langchain
+langchain-openai # For newer OpenAI integrations with LangChain
+chromadb
+tiktoken
+requests
+openai-agents
+chromadb
+docling
+certifi
+langchain_community
+beautifulsoup4

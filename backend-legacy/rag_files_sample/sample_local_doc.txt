@@ -1,0 +1,2 @@
+This is a sample local text document for testing the ChromaDB ingestion.
+It talks about local development environments.
