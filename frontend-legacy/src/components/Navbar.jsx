@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { cn } from '../lib/utils';
 import { Menu, X } from 'lucide-react';
-import { Button } from '../components/ui/button';
+import { Button } from './ui/button';
 import { useTheme } from '../lib/ThemeProvider';
 
 const menuItems = [

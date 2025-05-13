@@ -1,7 +1,7 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import App from './App.jsx';
-import { ThemeProvider, initializeTheme } from './lib/ThemeProvider';
+import { ThemeProvider, initializeTheme } from './lib/ThemeProvider.jsx';
 import './index.css';
 import './lib/dark.css';
 
